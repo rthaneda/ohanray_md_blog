@@ -30,9 +30,9 @@ jobs:
         run: echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy && chmod 600 ~/.ssh/deploy
       - name: Create the known hosts
         run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
-      # - name: Install mdbook
-      #   run: cargo install mdbook
-      # - name: Build the book
-      #   run: cd $GITHUB_WORKSPACE && mdbook build
+      - name: Install mdbook
+        run: cargo install mdbook
+      - name: Build the book
+        run: cd $GITHUB_WORKSPACE && mdbook build
       - name: deploy the book
         run: ssh -i ~/.ssh/deploy deployer@testblog.brooks-patton.com
