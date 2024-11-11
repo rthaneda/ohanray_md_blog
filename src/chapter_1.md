@@ -1,5 +1,3 @@
 # Chapter 1
 
-hello
-
-hi there
+3D printing is an interesting hobby
