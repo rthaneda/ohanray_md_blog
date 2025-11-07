@@ -70,3 +70,25 @@
   - [December 21 - The Awakening: Choosing Bhau for the North (February 1760)](./241221_2228.md)
   - [December 23 - Dattaji's Death & Holkar's Response (January 1760)](./241223_2301.md)
   - [December 24 - Abdali Stays & The Decision to Send Vishwas Rao (February-March 1760)](./241224_2325.md)
+
+---
+
+# 2025
+
+- [January]()
+  - [January 1 - Sadashiv Rao Bhau's Army: Artillery, Splendor & The Udgir Aftermath (1760)](./250101_2259.md)
+  - [January 4 - Chapter 17: The Hunt for Allies & Setting the Stage (March 1760)](./250104_1617.md)
+  - [January 4 - Abdali's Alliance Campaign: Wooing Ahmad Khan Bangash (1760)](./250104_2302.md)
+  - [January 5 - Bangash Visits Abdali's Camp & The Alliance Race Heats Up (March 1760)](./250105_1630.md)
+  - [January 5 - The Battle for Suja-ud-Daula: The Ultimate Prize (1760)](./250105_2313.md)
+  - [January 6 - Bhau's Boat Bridge Plan & The Unfair Blame (April-June 1760)](./250106_2311.md)
+  - [January 7 - Suja Goes Neutral & The River Crossing Crisis (1760)](./250107_2255.md)
+  - [January 8 - Abdali's Final Diplomatic Push & Bhau's River Struggles (June 1760)](./250108_2304.md)
+  - [January 13 - Najib Khan's "Islam in Danger" Argument (June 1760)](./250113_2250.md)
+  - [January 14 - Suja Joins Abdali: The Dramatic Persuasion (July 1760)](./250114_2230.md)
+  - [January 15 - Surajmal Jat: The Shrewd Survivor (July 1760)](./250115_2307.md)
+  - [January 16 - Suraj Mal's Alliance & Rajput Betrayals (June 1760)](./250116_2304.md)
+  - [January 16 - The Sikhs & The Battle Over Punjab (1760)](./250116_2331.md)
+  - [January 17 - Bhau's March North: The River Crossing Crisis (March-April 1760)](./250117_2258.md)
+  - [January 21 - The Financial Crisis: Moving a Town (1760)](./250121_2242.md)
+  - [January 22 - The Ally Crisis & Loan Refusals (April-May 1760)](./250122_2306.md)
