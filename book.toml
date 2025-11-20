@@ -1,5 +1,4 @@
 [book]
-authors = ["Brooks Patton"]
+authors = ["Rohan Thanedar"]
 language = "en"
-multilingual = false
 src = "src"
