@@ -1,4 +1,5 @@
 [book]
 authors = ["Rohan Thanedar"]
 language = "en"
+multilingual = false
 src = "src"
